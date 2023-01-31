@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Mario Namtao Shianti Larcher
+description: A basic example of client interface to a computer vision API
+
+author:
+  name: Mario Namtao Shianti Larcher
