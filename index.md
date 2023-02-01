@@ -4,6 +4,3 @@ layout: page
 ---
 
 # Simple JS Image Classifier
-
-[1single](1single.qmd)
-[1single_jph](1single_jph.qmd)
